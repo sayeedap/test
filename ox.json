@@ -1,16 +1,18 @@
-"history": [
+{
+  "current": {
+    "tosuppliers": 22,
+    "tohospitals": 4,
+    "date": null
+  },
+  "history": [
     {
       "tosuppliers": 22,
-      "tohospitals": 0,
-      "date": 1620153000000
       "tohospitals": 10,
       "date": 1620259200000
     },
     {
-      "tosuppliers": 0,
       "tosuppliers": 15,
       "tohospitals": 4,
-      "date": 1620325800000
       "date": 1620345600000
     },
     {
