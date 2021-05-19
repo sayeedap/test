@@ -8,12 +8,12 @@
     {
       "tosuppliers": 22,
       "tohospitals": 10,
-      "date": 1620259200000
+      "date": "2021-05-04T00:00:00"
     },
     {
       "tosuppliers": 15,
       "tohospitals": 4,
-      "date": 1620345600000
+      "date": "2021-05-06T00:00:00"
     }
   ]
 }
