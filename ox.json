@@ -7,38 +7,8 @@
   "history": [
     {
       "tosuppliers": 22,
-      "tohospitals": 10,
-      "date": "2021-05-01T00:00:00"
-    },
-    {
-      "tosuppliers": 15,
-      "tohospitals": 4,
-      "date":  "2021-05-02T00:00:00"
-    },
-    {
-      "tosuppliers": 6,
-      "tohospitals": 14,
-      "date": "2021-05-01T00:00:00"
-    },
-    {
-      "tosuppliers": 1,
-      "tohospitals": 9,
-      "date":  "2021-05-04T00:00:00"
-    },
-    {
-      "tosuppliers": 24,
-      "tohospitals": 6,
-      "date":  "2021-05-05T00:00:00"
-    },
-    {
-      "tosuppliers": 50,
-      "tohospitals": 26,
-      "date":  "2021-05-06T00:00:00"	
-    },
-    {
-      "tosuppliers": 29,
-      "tohospitals": 20,
-      "date":  "2021-05-0700:00:00"
+      "tohospitals": 10
+      
     }
   ]
 }
