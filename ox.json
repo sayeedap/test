@@ -14,6 +14,31 @@
       "tosuppliers": 15,
       "tohospitals": 4,
       "date": 1620345600000
+    },
+    {
+      "tosuppliers": 6,
+      "tohospitals": 14,
+      "date": 1620432000000
+    },
+    {
+      "tosuppliers": 1,
+      "tohospitals": 9,
+      "date": 1620518400000
+    },
+    {
+      "tosuppliers": 24,
+      "tohospitals": 6,
+      "date": 1620604800000
+    },
+    {
+      "tosuppliers": 50,
+      "tohospitals": 26,
+      "date": 1620691200000
+    },
+    {
+      "tosuppliers": 29,
+      "tohospitals": 20,
+      "date": 1620777600000
     }
   ]
 }
