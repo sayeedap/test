@@ -1,20 +1,20 @@
 [
   {
     "districtname": "ALMORA",
-    "generationplant": 0,
-    "inflow": 0,
-    "lmo": 0
+    "generationplant": 20,
+    "inflow": 23,
+    "lmo": 45
   },
   {
     "districtname": "BAGESHWAR",
-    "generationplant": 0,
-    "inflow": 0,
-    "lmo": 0
+    "generationplant": 28,
+    "inflow": 29,
+    "lmo": 10
   },
   {
     "districtname": "KOZHIKODE",
-    "generationplant": 0.22253,
-    "inflow": 0,
-    "lmo": 178.97999999999996
+    "generationplant": 3,
+    "inflow": 4,
+    "lmo": 29
   }
 ]
